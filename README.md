@@ -1,4 +1,4 @@
-# Data Struvture in C language
+# Some Data Structure in C language
 
 In the university context, learning C language is a prerequisite for success in certain subjects such as INF131, INF231... To make up for this deficit, I'm going to learn complex data structures in C (Stack, File, Lists...).
 
@@ -54,3 +54,19 @@ Une `file` (ou `queue`) est une structure de données linéaire qui suit le prin
 ./File
 
 ![schema-file](assets/schema-file.png)
+
+## Table de Hashage
+
+Une table de hachage est une structure de données qui permet de stocker des paires clé-valeur pour un accès rapide. Elle repose sur une fonction de hachage qui convertit une clé en un indice dans un tableau.
+
+**Avantages :**
+
+- Accès rapide aux données (en moyenne O(1)).
+- Pratique pour les recherches, les insertions et les suppressions.
+
+**Inconvénients :**
+
+- Les performances dépendent de la qualité de la fonction de hachage.
+- Risque de collisions (deux clés différentes générant le même indice).
+
+![Hash Table preview](assets/hash_table.png)
