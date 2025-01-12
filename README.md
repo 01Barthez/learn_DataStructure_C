@@ -2,6 +2,8 @@
 
 In the university context, learning C language is a prerequisite for success in certain subjects such as INF131, INF231... To make up for this deficit, I'm going to learn complex data structures in C (Stack, File, Lists...).
 
+![UY1+C](assets/FacScience+langageC.png)
+
 ## Liste (List)
 
 Une `liste` est une structure de données linéaire qui stocke des éléments de manière séquentielle. Les listes peuvent être statiques (*comme les tableaux*) ou dynamiques (comme *les listes chaînées*). Elles permettent un accès direct aux éléments via leur index. Les opérations courantes incluent l'insertion, la suppression et la recherche. Les listes sont utilisées dans des cas où un accès rapide à des éléments spécifiques est nécessaire, comme dans les implémentations de tableaux dynamiques (*ex : ArrayList en Java*) ou pour stocker des données ordonnées comme une liste d'éléments dans un panier d'achat.
