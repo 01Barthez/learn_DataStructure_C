@@ -2,7 +2,7 @@
 
 In the university context, learning C language is a prerequisite for success in certain subjects such as INF131, INF231... To make up for this deficit, I'm going to learn complex data structures in C (Stack, File, Lists...).
 
-![UY1+C](assets/FacScience+langageC.png)
+![UY1+C](assets/image_facScience+langageC.png)
 
 ## Liste (List)
 
@@ -70,3 +70,8 @@ Une table de hachage est une structure de données qui permet de stocker des pai
 - Risque de collisions (deux clés différentes générant le même indice).
 
 ![Hash Table preview](assets/hash_table.png)
+
+### Author
+
+Email: [kenwoubarthez@gmail.com](https://mailto:kenwoubarthez@gmail.com)
+[Barthez Kenwou](https://www.linkedin.com/in/barthez-kenwou/)
