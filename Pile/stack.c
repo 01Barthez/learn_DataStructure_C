@@ -65,13 +65,8 @@ Stack popStack(Stack stack) {
 /************************************************************************************************/
 
 int topStack(Stack stack) {
-    stackElement* element;
-    int firstElement = 0;
-
     if(isEmptyStack(stack))
-        return 0;
-
-    element = stack;
+        return -1;
 
     return stack->value;
 }
